@@ -1,11 +1,10 @@
-# instagram-dio
-Recreating the Instagram login page
+# Recreating the Instagram login page
 
-## Esse é o repositório da aulade Flexbox da DIO, na qual o desafio é reconstruir a página de login do Instagram.
+## This is the repository for DIO's Flexbox class, in which the challenge is to rebuild the Instagram login page.
 
-Os requisitos são:
+Requirements:
 
-* HTML básico
-* CSS básico
+* HTML basic
+* CSS basic
 
 ## 🚀 Let's code! 🚀
